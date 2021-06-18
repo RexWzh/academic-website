@@ -11,7 +11,7 @@ role: Graduate sutdent of East China Normal University
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: ECNU
-  url: https://www.ecnu.edu.cn/
+  url: 'https://www.ecnu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 # bio: 
@@ -52,13 +52,13 @@ social:
   link: '51195500009@stu.ecnu.edu.cn'
 - icon: google
   icon_pack: fab
-  link: https://www.google.com
+  link: 'https://www.google.com'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: rex-ecnu.netlify.app
 - icon: github
   icon_pack: fab
-  link: https://github.com/RexWzh
+  link: 'https://github.com/RexWzh'
 #- icon: linkedin
 #  icon_pack: fab
 #  link: rex-ecnu.netlify.app
