@@ -76,5 +76,6 @@ highlight_name: false
 
 The author is too lazy to write anything here...
 
-Remark: This is a temporary web page. Several new feactures and functions will be added sooner.
+Remark
+    This is a temporary web page. Several new feactures and functions will be added sooner.
 
