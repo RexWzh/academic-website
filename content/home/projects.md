@@ -13,7 +13,7 @@ headless: true
 weight: 65
 
 title: Notes
-subtitle: 'hopf algebras'
+subtitle: 'Notability-pdf'
 
 content:
   # Page type to display. E.g. project.
@@ -31,9 +31,9 @@ content:
   - name: All
     tag: '*'
   - name: hopf algebras
-    tag: hopf algebras
-  - name: Other
-    tag: Demo
+    tag: '*'
+  # - name: Other
+  #   tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

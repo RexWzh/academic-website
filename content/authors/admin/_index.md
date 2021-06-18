@@ -22,12 +22,6 @@ interests:
 - Hopf algebra
 - Computer algebra system
 
-# Hobbies
-hobbies:
-- Chinese chess
-- Movies
-- running
-- handicraft
 
 # Education to show in About widget
 # education:
