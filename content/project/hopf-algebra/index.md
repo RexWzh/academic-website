@@ -1,8 +1,8 @@
 ---
 title: Hopf algebras
 summary: Notes on hopf algebras(Mongomery); Cpt 1-4,7
-# tags:
-# - Deep Learning
+tags:
+- hopf algebra
 # date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
