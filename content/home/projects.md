@@ -31,9 +31,9 @@ content:
   - name: All
     tag: '*'
   - name: hopf algebras
-    tag: '*'
-  # - name: Other
-  #   tag: Demo
+    tag: 'hopf algebra'
+  - name: lie algebras
+    tag: lie algebra
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
