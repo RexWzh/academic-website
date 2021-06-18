@@ -22,6 +22,12 @@ interests:
 - Hopf algebra
 - Computer algebra system
 
+# Hobbies
+Hobbies:
+- Chinese chess
+- Movies
+- running
+- handicraft
 # Education to show in About widget
 # education:
 #  courses:
@@ -52,9 +58,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/RexWzh
-- icon: linkedin
-  icon_pack: fab
-  link: rex-ecnu.netlify.app
+#- icon: linkedin
+#  icon_pack: fab
+#  link: rex-ecnu.netlify.app
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,4 +76,4 @@ email: "51195500009@stu.ecnu.edu.cn"
 highlight_name: false
 ---
 
-The author is so lazy...
+The author is too lazy to write anything here...
