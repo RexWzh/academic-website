@@ -47,7 +47,7 @@
   title = "Weibo"
   icon_pack = "fab"
   icon = "weibo"
-  enable = ture
+  enable = true
 
 [[buttons]]
   id = "reddit"
