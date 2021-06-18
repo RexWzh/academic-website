@@ -1,5 +1,5 @@
 ---
-title: Hopf algebras
+title: Lie algebras
 summary: Notes on lie algebras(Carter Roger); Cpt 1-13
 tags:
 - lie algebra
@@ -33,18 +33,28 @@ image:
 ---
 李代数笔记（先占个位）
 
-Hopf algebra of {{< staticref "uploads/hopf-algebra/hopf Montgomery 1.1-1.5.pdf" "newtab" >}}Chapter 1.1-1.5{{< /staticref >}}
+Lie algebra - {{< staticref "uploads/lie-algebra/Lie 代数 01 基础概念.pdf" "newtab" >}}Chapter 01 基础概念{{< /staticref >}}
 
-Hopf algebra of {{< staticref "uploads/hopf-algebra/hopf Montgomery 1.6-1.9.pdf" "newtab" >}}Chapter 1.6-1.9{{< /staticref >}}
+Lie algebra - {{< staticref "uploads/lie-algebra/Lie 代数 02 可解幂零上的表示.pdf" "newtab" >}}Chapter 02 可解幂零上的表示{{< /staticref >}}
 
-Hopf algebra of {{< staticref "uploads/hopf-algebra/hopf Montgomery 2.3-2.5.pdf" "newtab" >}}Chapter 2.3-2.5{{< /staticref >}}
+Lie algebra - {{< staticref "uploads/lie-algebra/Lie 代数 03 Cartan子代数.pdf" "newtab" >}}Chapter 03 Cartan子代数{{< /staticref >}}
 
-Hopf algebra of {{< staticref "uploads/hopf-algebra/hopf Montgomery 3.1-3.2.pdf" "newtab" >}}Chapter 3.1-3.2{{< /staticref >}}
+Lie algebra - {{< staticref "uploads/lie-algebra/Lie 代数 04 Cartan分解.pdf" "newtab" >}}Chapter 04 Cartan分解{{< /staticref >}}
 
-Hopf algebra of {{< staticref "uploads/hopf-algebra/hopf Montgomery 3.3-3.5.pdf" "newtab" >}}Chapter 3.3-3.5{{< /staticref >}}
+Lie algebra - {{< staticref "uploads/lie-algebra/Lie 代数 05 根系与Weyl群.pdf" "newtab" >}}Chapter 05 根系与Weyl群{{< /staticref >}}
 
-Hopf algebra of {{< staticref "uploads/hopf-algebra/hopf Montgomery 04 Action-Samsh product.pdf" "newtab" >}}Chapter 4{{< /staticref >}}
+Lie algebra - {{< staticref "uploads/lie-algebra/Lie 代数 06 Cartan矩阵与Dynkin图.pdf" "newtab" >}}Chapter 06 Cartan矩阵与Dynkin图{{< /staticref >}}
 
-Hopf algebra of {{< staticref "uploads/hopf-algebra/hopf Montgomery 07 crossed product.pdf" "newtab" >}}Chapter 7.1-7.2{{< /staticref >}}
+Lie algebra - {{< staticref "uploads/lie-algebra/Lie 代数 07 存在唯一性定理.pdf" "newtab" >}}Chapter 07 存在唯一性定理{{< /staticref >}}
 
-Hopf algebra of {{< staticref "uploads/hopf-algebra/hopf Montgomery 7.3-7.5 crossed product.pdf" "newtab" >}}Chapter 7.3-7.5{{< /staticref >}}
+Lie algebra - {{< staticref "uploads/lie-algebra/Lie 代数 08 单Lie代数分类.pdf" "newtab" >}}Chapter 08 单Lie代数分类{{< /staticref >}}
+
+Lie algebra - {{< staticref "uploads/lie-algebra/Lie 代数 09 泛性质构造.pdf" "newtab" >}}Chapter 09 泛性质构造{{< /staticref >}}
+
+Lie algebra - {{< staticref "uploads/lie-algebra/Lie 代数 10 半单Lie代数上的不可约模.pdf" "newtab" >}}Chapter 10 半单Lie代数上的不可约模{{< /staticref >}}
+
+Lie algebra - {{< staticref "uploads/lie-algebra/Lie 代数 11 泛包络的更多性质.pdf" "newtab" >}}Chapter 11 泛包络的更多性质{{< /staticref >}}
+
+Lie algebra - {{< staticref "uploads/lie-algebra/Lie 代数 12 特征标与维数公式.pdf" "newtab" >}}Chapter 12 特征标与维数公式{{< /staticref >}}
+
+Lie algebra - {{< staticref "uploads/lie-algebra/Lie 代数 13 单李代数的基本模.pdf" "newtab" >}}Chapter 13 单李代数的基本模{{< /staticref >}}
