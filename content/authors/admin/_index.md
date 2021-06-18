@@ -23,11 +23,12 @@ interests:
 - Computer algebra system
 
 # Hobbies
-Hobbies:
+hobbies:
 - Chinese chess
 - Movies
 - running
 - handicraft
+
 # Education to show in About widget
 # education:
 #  courses:
