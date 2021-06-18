@@ -27,11 +27,11 @@ interests:
 
 
 # Education to show in About widget
-education:
- courses:
- - course: Null
-  institution: Null
-  year: Null
+# education:
+#  courses:
+#  - course: Null
+#   institution: Null
+#   year: Null
 # - course: MEng in Artificial Intelligence
 #   institution: Massachusetts Institute of Technology
 #   year: 2009
@@ -75,4 +75,6 @@ highlight_name: false
 ---
 
 The author is too lazy to write anything here...
+
+Remark: This is a temporary web page. Several new feactures and functions will be added sooner.
 
