@@ -18,17 +18,20 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Lie algebra
-- Hopf algebra
+- Algebra
 - Computer algebra system
+- Chinese chess
+- Bookshops
+- Movies
+- etc...
 
 
 # Education to show in About widget
-# education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#   institution: Stanford University
-#   year: 2012
+education:
+ courses:
+ - course: Null
+  institution: Null
+  year: Null
 # - course: MEng in Artificial Intelligence
 #   institution: Massachusetts Institute of Technology
 #   year: 2009
@@ -72,3 +75,4 @@ highlight_name: false
 ---
 
 The author is too lazy to write anything here...
+

@@ -6,11 +6,11 @@ summary: Notes on hopf algebras(Mongomery); Cpt 1-4,7
 # date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+# external_link: ""
 
-image:
-  caption: text book
-  focal_point: Smart
+# image:
+#   caption: text book
+#   focal_point: Smart
 
 # links:
 # - icon: twitter
@@ -29,7 +29,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 Download my {{< staticref "uploads/root-data.pdf" "newtab" >}}files{{< /staticref >}}.
