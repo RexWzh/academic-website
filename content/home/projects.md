@@ -34,8 +34,8 @@ content:
     tag: 'hopf algebra'
   - name: lie algebras
     tag: lie algebra
-  - name: affine lie algebras
-    tag: affine
+  - name: others
+    tag: none
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

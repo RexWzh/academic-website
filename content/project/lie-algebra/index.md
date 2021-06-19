@@ -9,7 +9,7 @@ tags:
 # external_link: ""
 
 image:
-  caption: reading notes
+  caption: notes on lie algebra
   focal_point: Smart
 
 # links:
@@ -31,7 +31,9 @@ image:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-李代数笔记（先占个位）
+李代数笔记
+
+参考书本：{{< staticref "uploads/lie-algebra/Lie algebras of finite and affine.pdf" "newtab" >}}Lie algebras of finite and affine (Carter Roger){{< /staticref >}}
 
 Lie algebra - {{< staticref "uploads/lie-algebra/Lie 代数 01 基础概念.pdf" "newtab" >}}Chapter 01 基础概念{{< /staticref >}}
 
