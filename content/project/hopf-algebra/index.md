@@ -31,10 +31,9 @@ image:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-Hopf 代数笔记（后边整理会再修改）
+Hopf 代数笔记（后边会再修改）
 
-参考教材：
-Hopf algebra of {{< staticref "uploads/hopf-algebra/Hopf algebras and their actions on rings.pdf" "newtab" >}}Hopf algebras and their actions on rings（Montgomery){{< /staticref >}}
+参考教材：{{< staticref "uploads/hopf-algebra/Hopf algebras and their actions on rings.pdf" "newtab" >}}Hopf algebras and their actions on rings{{< /staticref >}}(Montgomery)
 
 Hopf algebra of {{< staticref "uploads/hopf-algebra/hopf Montgomery 1.1-1.5.pdf" "newtab" >}}Chapter 1.1-1.5{{< /staticref >}}
 
