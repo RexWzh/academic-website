@@ -9,7 +9,7 @@ tags:
 # external_link: ""
 
 image:
-  caption: reading notes
+  caption: hopf algebra notes
   focal_point: Smart
 
 # links:
@@ -31,7 +31,10 @@ image:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-Hopf 代数笔记（前几章有些冗杂，5-6章笔记琐碎，之后再补传）
+Hopf 代数笔记（后边整理会再修改）
+
+参考教材：
+Hopf algebra of {{< staticref "uploads/hopf-algebra/Hopf algebras and their actions on rings.pdf" "newtab" >}}Hopf algebras and their actions on rings（Montgomery){{< /staticref >}}
 
 Hopf algebra of {{< staticref "uploads/hopf-algebra/hopf Montgomery 1.1-1.5.pdf" "newtab" >}}Chapter 1.1-1.5{{< /staticref >}}
 
